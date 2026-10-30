@@ -1,0 +1,19 @@
+body {
+    font-family: 'Franklin Gothic Medium';
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+
+}
+.header-right {
+    display: flex;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
